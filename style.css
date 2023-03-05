@@ -1,16 +1,15 @@
 body {
-    background-image: url("assets/Wallpaper.png");
+    background-image: url("assets/TempBG.PNG");
 }
 
-.bodyNew {
-    background-image: url("Wallpaper.png");
-}
+
 
 .h1c {
     font-family: 'Dancing Script', cursive;
 	font-size: 80px;
 	margin-bottom: 30px;
     text-align: center;
+    color: white;
 }
 
 .pc {
@@ -18,6 +17,7 @@ body {
 	font-size: 35px;
 	margin-bottom: 30px;
     text-align: center;
+    color: white;
 }
 
 .pagebar {
